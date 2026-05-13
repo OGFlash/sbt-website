@@ -1,0 +1,306 @@
+================================================================================
+  SBT - Small Business Technologies
+  Website Content Audit
+  Extracted from: semp-api (Spring Boot) + semp-portal (Angular)
+  Date: May 2026
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+COMPANY OVERVIEW
+────────────────────────────────────────────────────────────────────────────────
+Company Name:   Small Business Technologies (SBT)
+Tagline:        Local Expertise. Scalable Solutions. Trusted Support.
+Copyright:      © 2025, Small Business Technologies (SBT) | by Andrew King
+
+────────────────────────────────────────────────────────────────────────────────
+FOUNDER / CONTACT
+────────────────────────────────────────────────────────────────────────────────
+Name:       Caleb Yoder
+Title:      Founder
+Experience: 10+ years in Information Technology
+Location:   10210 New Dawn Pl, Avon, Indiana 46123 (also listed as 46234)
+Mobile:     574-888-8888
+Email:      caleb.yoder@gmail.com
+Google Maps embed for address already present in old site.
+
+Bio:
+  "With over 10 years of professional experience in information technology,
+  Caleb founded Small Business Technologies to deliver enterprise-grade IT
+  support with a personal, small-town touch. Based in Indiana, he has worked
+  with businesses of all sizes to implement secure networks, modernize
+  infrastructure, and maintain operational uptime.
+
+  Caleb specializes in managed IT services, network optimization, and
+  cybersecurity. Whether you're launching a new startup or upgrading an
+  existing system, he's committed to delivering cost-effective solutions
+  tailored to your needs.
+
+  Let's connect — whether you're in need of a tech partner or just have a
+  few questions, Caleb is here to help."
+
+────────────────────────────────────────────────────────────────────────────────
+NAVIGATION / PAGES
+────────────────────────────────────────────────────────────────────────────────
+  1. Home          (/)           - About section, hero carousel
+  2. Services      (/services)   - Service cards grid
+  3. Service Detail (/services/:id) - Individual service description
+  4. Gallery       (/gallery)    - Photo gallery
+  5. Location      (/location)   - Google Maps embed
+  6. Contact       (/contact)    - Contact form (name, email, message)
+
+────────────────────────────────────────────────────────────────────────────────
+HERO CAROUSEL (Home page)
+────────────────────────────────────────────────────────────────────────────────
+Slide 1:
+  Title:   Managed IT Support
+  Caption: Proactive monitoring, troubleshooting, and IT helpdesk services
+  Image:   managed-it-support.png
+
+Slide 2:
+  Title:   Network & Infrastructure Management
+  Caption: Setup and optimization of networks, servers, and communication infrastructure.
+  Image:   network-mon.png
+
+Slide 3:
+  Title:   Cybersecurity Services
+  Caption: Threat detection, firewall management, endpoint security and vulnerability assessments
+  Image:   hacker.png
+
+Slide 4:
+  Title:   Data Backup and Disaster Recovery
+  Caption: Regular data backups, recovery planning, and risk mitigation
+  Image:   data-servers.png
+
+────────────────────────────────────────────────────────────────────────────────
+SERVICES (10 total)
+────────────────────────────────────────────────────────────────────────────────
+
+1. Infrastructure & Network Management  [id: infrastructure-network]
+   Image: infra-network-managment.png
+   Description:
+     - Network monitoring and performance optimization
+     - Server management (on-prem & cloud)
+     - Firewall and router management
+     - VPN setup and maintenance
+     - Wireless and LAN management
+     - SD-WAN deployment and support
+
+2. Cloud Services  [id: cloud-services]
+   Image: cloud-services.png
+   Description:
+     - Cloud migration planning and execution
+     - Cloud infrastructure management (AWS, Azure, GCP)
+     - Hybrid cloud solutions
+     - Cloud cost optimization
+     - Backup and Disaster Recovery (BDR) in the cloud
+     - Cloud security management
+
+3. Cybersecurity Services  [id: cybersecurity]
+   Image: cyber-securuity-services.png  (note: typo in original filename)
+   Description:
+     - Managed Detection and Response (MDR)
+     - Endpoint protection and antivirus management
+     - Firewall and intrusion prevention system (IPS) management
+     - Security patching and vulnerability scanning
+     - Email security (spam filtering, phishing protection)
+     - SIEM
+     - Zero Trust architecture implementation
+
+4. Data Protection & Compliance  [id: data-protection]
+   Image: data-protection-compliance.png
+   Description:
+     - Automated backups and restore testing
+     - Business continuity and disaster recovery (BCDR)
+     - Compliance as a service (HIPAA, GDPR, SOC 2)
+     - Data loss prevention (DLP)
+     - Encryption at rest and in transit
+
+5. Help Desk & User Support  [id: help-desk]
+   Image: help-desk.png
+   Description:
+     - 24/7 remote help desk support
+     - On-site support for escalations
+     - User account and permissions management
+     - Software installation and updates
+     - Device provisioning and maintenance
+
+6. Application & Software Management  [id: application-management]
+   Image: application-software-management.png
+   Description:
+     - Patch management and software updates
+     - SaaS management (Microsoft 365, Google Workspace)
+     - Custom application hosting and monitoring
+     - CRM/ERP support
+     - DevOps services for CI/CD
+
+7. Strategic IT Consulting  [id: it-consulting]
+   Image: strategic-it-consilting.png  (note: typo in original filename)
+   Description:
+     - IT roadmap and budgeting
+     - Vendor management
+     - Technology assessments and audits
+     - IT policy development
+     - Digital transformation advisory
+
+8. VoIP & Unified Communications  [id: voip-communications]
+   Image: voip-unified-device-management.png
+   Description:
+     - VoIP system deployment and support
+     - Unified communications (Teams, Zoom)
+     - Call center solutions
+     - Messaging and collaboration tools
+
+9. Endpoint & Mobile Device Management (MDM)  [id: mobile-device-management]
+   Image: endpoint-mobile-device-managment.png  (note: typo in original filename)
+   Description:
+     - Device lifecycle management
+     - BYOD policy enforcement
+     - Remote wipe and data protection
+     - Mobile app deployment and control
+
+10. Monitoring, Reporting & Analytics  [id: monitoring-analytics]
+    Image: monitoring-reporting-analytics.png
+    Description:
+      - Real-time system monitoring
+      - SLA reporting and metrics
+      - User activity and system audit logs
+      - Capacity planning analytics
+
+────────────────────────────────────────────────────────────────────────────────
+GALLERY
+────────────────────────────────────────────────────────────────────────────────
+  Title:   Gallery
+  Intro:   "View a collection of our work, highlighting our attention to detail
+            and customer satisfaction."
+  Images:  slide-image-1.jpg through slide-image-5.jpg
+
+────────────────────────────────────────────────────────────────────────────────
+LOCATION PAGE
+────────────────────────────────────────────────────────────────────────────────
+  Title:   Our Location
+  Intro:   "Find us at our physical location. We welcome visits and
+            consultations by appointment."
+  Map:     Google Maps embed — 10210 New Dawn Pl, Avon, IN 46123
+
+────────────────────────────────────────────────────────────────────────────────
+CONTACT FORM
+────────────────────────────────────────────────────────────────────────────────
+  Title:         Contact Us
+  Fields:        Name (required), Email (required, validated), Message (required)
+  Submit Button: Send Message
+  API endpoint:  POST http://localhost:8081/contact  →  sends email via Gmail SMTP
+  Recipient:     andrew.java.testing@gmail.com  (dev/test inbox — update for prod)
+
+────────────────────────────────────────────────────────────────────────────────
+FOOTER
+────────────────────────────────────────────────────────────────────────────────
+  "Find Us" heading
+  Contact block:
+    - Contact: Caleb Yoder
+    - Address: 10210 New Dawn, Avon Indiana 46123/46234
+    - Mobile: 574-888-8888
+    - Email: caleb.yoder@gmail.com
+
+  Footer link columns (placeholder links — not yet wired):
+    Customer:  Get Corpo, Documentation, Help Center, Pricing, Contact Us
+    Product:   Portfolio, Blog, Join Our Team, Elements, Products
+    Company:   About, Careers, Legal & Security, Terms of Use, We're Hiring!
+
+  Social: Facebook, Twitter, Instagram, LinkedIn (all placeholder hrefs)
+  Copyright: © 2025, Small Business Technologies (SBT) | by Andrew King
+
+────────────────────────────────────────────────────────────────────────────────
+BACKEND API SUMMARY (semp-api — Spring Boot)
+────────────────────────────────────────────────────────────────────────────────
+Tech Stack:
+  - Java / Spring Boot
+  - Spring Data JPA + Hibernate
+  - MySQL (database: semp_user_data)
+  - Spring Mail (Gmail SMTP)
+
+Endpoints:
+  POST   /contact           Send contact form email
+  GET    /user/all          Get all users
+  GET    /user/find/{id}    Get user by ID
+  POST   /user/add          Add user
+  PUT    /user/update       Update user
+  DELETE /user/delete/{id}  Delete user
+
+User Model:
+  - id (int, auto-generated)
+  - firstName (String)
+  - lastName (String)
+
+ContactForm Model:
+  - name (String)
+  - email (String)
+  - message (String)
+
+Notes:
+  - CORS allowed from http://localhost:4200 (Angular dev server)
+  - Gmail SMTP credentials in application.properties (rotate before reuse)
+  - MySQL password stored in plaintext (migrate to env vars / Secrets Manager)
+
+────────────────────────────────────────────────────────────────────────────────
+ALL IMAGES INVENTORY  (copied to /images/)
+────────────────────────────────────────────────────────────────────────────────
+  Logos:
+    sbt-logo.png
+    sbt-logo2.png
+    sbt-logo3.png
+    pure-canvas-logo.png
+
+  Founder:
+    caleb.png
+    caleb2.png       ← used on homepage About section
+
+  Hero / Carousel:
+    managed-it-support.png
+    network-mon.png
+    hacker.png
+    data-servers.png
+
+  Service Cards:
+    infra-network-managment.png
+    cloud-services.png
+    cyber-securuity-services.png
+    data-protection-compliance.png
+    help-desk.png
+    application-software-management.png
+    strategic-it-consilting.png
+    voip-unified-device-management.png
+    endpoint-mobile-device-managment.png
+    monitoring-reporting-analytics.png
+
+  Gallery / Misc:
+    slide-image-1.jpg
+    slide-image-2.jpg
+    slide-image-3.jpg
+    slide-image-4.jpg
+    slide-image-5.jpg
+    semp-in-the-flesh.jpg
+
+────────────────────────────────────────────────────────────────────────────────
+NEW WEBSITE PLAN  (React + Tailwind + FastAPI → AWS)
+────────────────────────────────────────────────────────────────────────────────
+Frontend:
+  - React (Vite)
+  - Tailwind CSS
+  - React Router v6
+  - Sections: Hero, About, Services, Gallery, Location, Contact
+
+Backend:
+  - Python FastAPI
+  - Contact form endpoint (POST /contact) — email via SMTP or AWS SES
+  - Optional: user/admin CRUD if needed
+
+Hosting (AWS — details TBD):
+  - Frontend: S3 + CloudFront  OR  Amplify
+  - Backend: Lambda (via Mangum) + API Gateway  OR  ECS Fargate
+  - Email: Amazon SES (replace Gmail SMTP)
+  - DB: RDS MySQL  OR  DynamoDB (if user management retained)
+  - Secrets: AWS Secrets Manager / Parameter Store
+
+Pending from user: Infrastructure preferences (EC2 vs ECS vs Lambda, RDS vs 
+DynamoDB, domain/Route53 config, CI/CD pipeline preferences, etc.)
+================================================================================

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# Build artifacts
+target/
+*.jar
+*.class
+*.zip
+
+# Lambda build directory (vendored dependencies)
+backend/lambda_build/
+
+# Zone identifiers (WSL artifact)
+*:Zone.Identifier
+
+# Deployment guide (contains sensitive config references)
+AWS-DEPLOYMENT-GUIDE.md

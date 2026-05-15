@@ -15,4 +15,20 @@ export const portfolio = [
     url: "https://gracepointecdc.com/",
     tags: ["Web Design", "Community"],
   },
+  {
+    id: "notch-8-crossfit",
+    name: "Notch 8 Crossfit",
+    description:
+      "High-energy website for a local CrossFit gym, designed to motivate and convert visitors into members.",
+    url: "https://notch-8-crossfit.com/",
+    tags: ["Web Design", "Example"],
+  },
+  {
+    id: "the-fudge-kettle",
+    name: "The Fudge Kettle",
+    description:
+      "Inviting online shop for a specialty fudge maker, showcasing products and making it easy for customers to order.",
+    url: "https://kettlefudgethe.com/",
+    tags: ["Web Design", "Shop", "Example"],
+  },
 ];

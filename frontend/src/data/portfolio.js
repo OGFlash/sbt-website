@@ -31,4 +31,12 @@ export const portfolio = [
     url: "https://kettlefudgethe.com/",
     tags: ["Web Design", "Shop", "Example"],
   },
+    {
+    id: "breaking-changes",
+    name: "Breaking Changes",
+    description:
+      "News Website with built in CMS and Agentic work flowsfor a tech blog focusing on software development and industry news.",
+    url: "https://breakchange.com/",
+    tags: ["Web Design", "CMS", "Blog", "SBT Owned"],
+  },
 ];
